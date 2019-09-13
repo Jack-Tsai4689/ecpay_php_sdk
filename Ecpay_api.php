@@ -1,5 +1,5 @@
 <?php
-namespace jackcc\ecpay;
+namespace jackcc;
 
 class Ecpay_api {
 
