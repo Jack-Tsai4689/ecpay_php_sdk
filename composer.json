@@ -1,0 +1,12 @@
+{
+    "name": "jackcc/ecpay",
+    "description": "ecpay_php_sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "JackTsai",
+            "email": "jack4689@hotmail.com"
+        }
+    ],
+    "require": {}
+}
